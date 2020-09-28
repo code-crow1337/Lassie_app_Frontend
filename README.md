@@ -29,7 +29,7 @@ Save the data with Dynomitedb
 
 ### Setup for Mac
 [](#ios)
-1. To create a virtual IOS device follow these instructions (IOS simulation)[https://docs.expo.io/workflow/ios-simulator/]
+1. To create a virtual IOS device follow these instructions [IOS simulation](https://docs.expo.io/workflow/ios-simulator/)
 1. When running ```expo start ```  in the terminal. Keypress ```i``` to run it in your emulator. 
 
 ### Setup Physical Device
