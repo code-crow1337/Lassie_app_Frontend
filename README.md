@@ -40,7 +40,7 @@ Save the data with Dynomitedb
 ## Troubleshooting
 #### Articles are not showing/Breeds not showing
 If you are running a virtual Android device you may not be able to fetch from the backend. Meaning a loading indicator keeps loading on the first screen.
-You need to change set the specific IP-address to the backend. 
+You need to set the specific IP-address to the backend. 
 
 On Linux/BASH run in a separate command window:
 ```ifconfig ```
@@ -56,5 +56,5 @@ const client = new ApolloClient({
 
 #### I'm not seeing the main app
 The boolean value in the navigation needs to be changed to true.
-In the ```navigation/index.tsx ``` there is an expression ```  const firstTime = false;```  set that to ```True``` and you will be redirected into
+In the ```navigation/index.tsx ``` there is an expression ```  const firstTime = false;```  set that to ```true``` and you will be redirected into
 the main part of the app. 
