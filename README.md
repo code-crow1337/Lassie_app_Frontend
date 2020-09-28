@@ -16,7 +16,7 @@ Save the data with Dynomitedb
    Follow the instruction in this [repo](https://github.com/code-crow1337/Lassie_app_Backend) and return here after the server is up. 
 4. Do ```expo start ``` in the cmd.
 5. Depending where you want to run the app on you need to do the following:
-  - [Android](#android).
+  - [Android](#set-up-for-android-studio-emulator)
   - [Mac](#ios)
   - [Smartphone](#app)
 
