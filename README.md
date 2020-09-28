@@ -37,6 +37,21 @@ Save the data with Dynomitedb
 1. Go to Google Play or App Store and search for ```Expo```
 2. In your terminal where Expo is running is a QR code which you can scan with your newly installed Expo app. 
 
+## Screenshoots
+
+### Onboarding screens
+<img alt="onboarding" src="https://github.com/code-crow1337/Lassie_app_Frontend/blob/master/screenshots/onboardingSignUp.png" width=300 align="left"/>
+<img alt="onboarding breeds picker" src="https://github.com/code-crow1337/Lassie_app_Frontend/blob/master/screenshots/onBoardingBreeds.png" width=300 align="left"/>
+<img alt="notification screen" src="https://github.com/code-crow1337/Lassie_app_Frontend/blob/master/screenshots/notification.png" width=300/>
+
+### Start screen as well it's darkmode equivalent.
+<img alt="start screen" src="https://github.com/code-crow1337/Lassie_app_Frontend/blob/master/screenshots/startScreen.png" width=300 align="left"/>
+<img alt="start screen dark mode" src="https://github.com/code-crow1337/Lassie_app_Frontend/blob/master/screenshots/darkModeStartScreen.png" width=300 />
+
+### Knowledge screen and it's articles as well single article screen
+<img alt="knowledge main screen" src="https://github.com/code-crow1337/Lassie_app_Frontend/blob/master/screenshots/knowledgeScreen.png" width=300 align="left" />
+<img alt="single article" src="https://github.com/code-crow1337/Lassie_app_Frontend/blob/master/screenshots/singleArticle.png" width=300  />
+
 ## Troubleshooting
 #### Articles are not showing/Breeds not showing
 If you are running a virtual Android device you may not be able to fetch from the backend. Meaning a loading indicator keeps loading on the first screen.
