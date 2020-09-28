@@ -17,8 +17,8 @@ Save the data with Dynomitedb
 4. Do ```expo start ``` in the cmd.
 5. Depending where you want to run the app on you need to do the following:
   - [Android](#set-up-for-android-studio-emulator)
-  - [Mac](#ios)
-  - [Smartphone](#app)
+  - [Mac](#setup-for-mac)
+  - [Smartphone](#setup-physical-device)
 
 ### Set up for Android Studio Emulator 
 [](#android)
